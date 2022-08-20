@@ -1,7 +1,8 @@
-git add --all
-ls
 cd ./alx-pre_course
 ls
 cd ./0x01-git
+git staus
+git add 'up_to_date'
 
-0x01-git# add "up_to_date"
+git commit -m "How to be up to date in git"
+git push origin main
