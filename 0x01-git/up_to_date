@@ -1,1 +1,7 @@
-alx-pre_course/ 0x01-git# add "up_to_date"
+git add --all
+ls
+cd ./alx-pre_course
+ls
+cd ./0x01-git
+
+0x01-git# add "up_to_date"
